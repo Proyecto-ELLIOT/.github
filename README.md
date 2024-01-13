@@ -4,5 +4,5 @@ Link al [Jira](https://diazelliot.atlassian.net/jira/software/projects/DELT/boar
 
 ## Repositorios
 
-- [ ] **elliot-web**: Applicación Nuxt.js
-- [ ] **elliot-adapter**: Adaptador de datos entre python y base de datos
+-  **elliot-web**: Applicación Nuxt.js
+-  **elliot-adapter**: Adaptador de datos entre python y base de datos
